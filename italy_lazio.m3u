@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Canale 10 Ostia
+https://wz4.newradio.it/dyrqkgmjqq/dyrqkgmjqq/playlist.m3u8
+#EXTINF:-1,Gold TV Roma
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1,Teleuniverso
+https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
+#EXTINF:-1,Laziotv
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:-1,Telepace Roma
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:-1,Radio Roma Tv
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+#EXTINF:-1,T9
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+#EXTINF:-1,Teleregione
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1,TRL
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:-1,Roma TV 82
+https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
+#EXTINF:-1,Teleitalia 41
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+#EXTINF:-1,Extra TV
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+#EXTINF:-1,Teleambiente
+https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
+#EXTINF:-1,Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:-1,Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1,Telegolfo
+https://wz4.newradio.it/quwgpedmpx/quwgpedmpx/playlist.m3u8
+#EXTINF:-1,TeleTusciaSabina 2000
+https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1,Leo Tv
+https://5db313b643fd8.streamlock.net/leotv/leotv/playlist.m3u8
+#EXTINF:-1,SL48TV
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Immagine TV
+https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+#EXTINF:-1 groups="MUSIC",StandbyTV
+https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8

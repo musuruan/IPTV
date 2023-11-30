@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:-1,Tele A
+https://www.lostream.it/hls/telea/video.m3u8
+#EXTINF:-1,Canale 8 (solo durante eventi live)
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1,OttoChannel
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1,Lira TV
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8?DVR
+#EXTINF:-1,Tv Luna
+https://tv.mediacp.eu:8081/tvluna/index.m3u8
+#EXTINF:-1,Videonola
+https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1,Partenope TV
+https://tv.mediacp.eu:8081/partenopetv/index.m3u8
+#EXTINF:-1,Nuvola TV Ischia
+https://604e46ac2bdee.streamlock.net:1936/nuvolatv4/nuvolatv4/playlist.m3u8
+#EXTINF:-1,Teleischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+#EXTINF:-1,Tv Campi Flegrei
+https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
+#EXTINF:-1,astiletv
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1,LabTV
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1,TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1,Telecolore
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+#EXTINF:-1,Italia2Tv
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1,Telelaser
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
+#EXTINF:-1,SET TV
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1,RTC Quarta Rete
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1,Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1,TeleOltre
+https://m3u8.teleoltre.com/np_teleoltre/channel1_np_teleoltre/channel1.m3u8
+#EXTINF:-1 groups="MUSIC",Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Marte TV
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",CRC News
+https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",FL Music
+https://rst.saiuzwebnetwork.it:8081/fiestaloca/index.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8

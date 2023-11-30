@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,VeraTV
+https://59d7d6f47d7fc.streamlock.net/veratv/veratv/playlist.m3u8
+#EXTINF:-1,ETV Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u
+#EXTINF:-1,TVRS Marche
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1,ETV+
+https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
+#EXTINF:-1,Fano TV
+https://tv.mediacp.eu:8081/fanotv/index.m3u8
+#EXTINF:-1,FMTV75
+https://rst2.saiuzwebnetwork.it:8081/fmtv/index.m3u8
+#EXTINF:-1,Rossini TV
+http://195.32.70.169:8080/memfs/fdf3106c-3f00-401a-b68a-47a200e39f28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTM
+https://player-api.new.livestream.com/accounts/10831729/events/3759913/broadcasts/238500590.secure.m3u8
+#EXTINF:-1,VideoTolentino
+https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
+#EXTINF:-1,Studio 7 TV
+https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
+#EXTINF:-1,EmmeTv
+https://rpn3.bozztv.com/ssh101/ssh101/emmetv89/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",RADIO LINEA N.1 TV
+https://5db313b643fd8.streamlock.net/RadioLineaTv/RadioLineaTv/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",SKYLINE TV
+https://5db313b643fd8.streamlock.net/SkyLineTv/SkyLineTv/playlist.m3u8

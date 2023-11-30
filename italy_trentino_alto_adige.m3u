@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,RAI Sudtirol
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1,Trentino TV
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:-1,RTTR Trento
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1,Telepace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1,VB33
+https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
+#EXTINF:-1,Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1,Peer.tv
+https://iptv.peer.biz/live/peertv.m3u8

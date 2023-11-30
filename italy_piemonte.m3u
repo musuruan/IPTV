@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Telecupole
+https://wz4.newradio.it/bhuwfdsygp/bhuwfdsygp/playlist.m3u8
+#EXTINF:-1,GRP VeraTV
+https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF028/02204/playlist.m3u8
+#EXTINF:-1,Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1,Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:-1,VCO Azzurra TV
+https://wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8
+#EXTINF:-1,Videonovara
+https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
+#EXTINF:-1,Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1,Rete Biella TV
+https://wb.top-ix.org/redirect/retebiella/_definst_/streaming?type=m3u8
+#EXTINF:-1,Telebiella
+https://wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8
+#EXTINF:-1,Oropa TV
+https://5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8
+#EXTINF:-1,TeleRitmo
+https://wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8
+#EXTINF:-1 groups="MUSIC",RBE-TV
+https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",RTV
+https://585b674743bbb.streamlock.net/9020/9020/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio 4 You TV
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 groups="MUSIC",Radio JukeBox
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTINF:-1,Motori TV
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,La Nuova TV
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Carina TV
+https://samson.streamerr.co:8081/carinatv/index.m3u8
