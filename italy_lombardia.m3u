@@ -45,7 +45,7 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Lombardia TV
 https://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
-#EXTINF:-1 groups="MUSIC"70-80.it
+#EXTINF:-1 groups="MUSIC",70-80.it
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Otto FM TV
 https://stream8.toserver.net:4433/cmaf/ottofmtv/index.m3u8

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Antenna 3 Veneto
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1,Telenuovo Verona
-https://player-api.new.livestream.com/accounts/762342/events/10328354/broadcasts/238499207.secure.m3u8
 #EXTINF:-1,TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1,Rete Veneta

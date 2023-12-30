@@ -96,7 +96,7 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="146" group-title="EDUCATION",Rai Scuola
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=23
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-chno="158" group-title="MUSIC",Kiss Kiss TV
-https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="VH1.it" tvg-chno="169" group-title="MUSIC",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-chno="177",Odeon 24

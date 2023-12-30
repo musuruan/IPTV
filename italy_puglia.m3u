@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,,Telenorba
+#EXTINF:-1,Telenorba
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-#EXTINF:-1,,Radio Norba TV
+#EXTINF:-1,Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1,TG Norba 24
 https://stream1.xdevel.com/video0s976570-1420/stream/playlist_dvr.m3u8
-#EXTINF:-1,,Antenna Sud
+#EXTINF:-1,Antenna Sud
 https://live.antennasudwebtv.it:9443/hls/vod.m3u8
 #EXTINF:-1,TeleRama Lecce
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
@@ -25,10 +25,12 @@ https://stream1.xdevel.com/video0s975675-263/stream/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1,Teletrullo
 https://80.teletrullo.tv/hls/teletrullo.m3u8
-#EXTINF:-1,,Antenna Sud Extra
+#EXTINF:-1,Antenna Sud Extra
 https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 #EXTINF:-1,Mediterranea TV
 https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+#EXTINF:-1,RTM
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1,DiTutto Channel
 https://stream1.aswifi.it/dituttomediterraneatv/live/index.m3u8
 #EXTINF:-1 groups="MUSIC",RADIO GAMMA TV
