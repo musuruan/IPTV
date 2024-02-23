@@ -8,11 +8,11 @@ https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
 #EXTINF:-1,ETV+
 https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
 #EXTINF:-1,Fano TV
-https://tv.mediacp.eu:8081/fanotv/index.m3u8
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:-1,FMTV75
 https://rst2.saiuzwebnetwork.it:8081/fmtv/index.m3u8
 #EXTINF:-1,Rossini TV
-http://79.61.9.131:8080/memfs/b18843ff-bee6-4a72-a18e-f962bfd9e891.m3u8
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTM
 http://api.new.livestream.com/accounts/10831729/events/3759913/live.m3u8
 #EXTINF:-1,VideoTolentino
@@ -22,6 +22,6 @@ https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
 #EXTINF:-1,EmmeTv
 https://rpn3.bozztv.com/ssh101/ssh101/emmetv89/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",RADIO LINEA N.1 TV
-https://5db313b643fd8.streamlock.net/RadioLineaTv/RadioLineaTv/playlist.m3u8
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",SKYLINE TV
-https://5db313b643fd8.streamlock.net/SkyLineTv/SkyLineTv/playlist.m3u8
+https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8

@@ -12,18 +12,18 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 #EXTINF:-1,Telebelluno
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 #EXTINF:-1,Telepace
-https://5f22d76e220e1.streamlock.net/telepace1/telepace1/playlist.m3u8
+https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:-1,Telepace 2
-https://5f22d76e220e1.streamlock.net/telepace2/telepace2/playlist.m3u8
+https://64b16f23efbee.streamlock.net/telepace2/telepace2/playlist.m3u8
 #EXTINF:-1,TeleVenezia
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
 #EXTINF:-1,Tele Dolomiti
 https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
 #EXTINF:-1,TeleCittà
 https://tango.wifi4all.it/telecitta/telecitta.m3u8
-#EXTINF:-1,TV7 Meteo
-https://www.gruppotv7.com:8090/hls/meteo.m3u8
-#EXTINF:-1,Radio Bellla & Monella
+#EXTINF:-1,Love in Venice
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Bellla & Monella
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Sorrriso TV
 https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
@@ -33,5 +33,7 @@ https://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Venezia TV
+https://59d7d6f47d7fc.streamlock.net/radioveneziatv/radioveneziatv/playlist.m3u8
 #EXTINF:-1,Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8

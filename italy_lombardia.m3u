@@ -14,13 +14,15 @@ https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:-1,Milano Pavia TV
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1,Lombardia TV 80
-https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1,TeleBoario
 https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 #EXTINF:-1,Antenna 2
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1,Italia 8 Prestige
+https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
 #EXTINF:-1,Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1,TSN TeleSondrioNews

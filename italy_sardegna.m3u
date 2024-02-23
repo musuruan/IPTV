@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1,TCS TeleCostaSmeralda
+https://streamcdnm8-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:-1,Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+#EXTINF:-1,Telesardegna
+https://dotfvxkfj90ca.cloudfront.net/live/telesardegnalive1_aac/playlist.m3u8
 #EXTINF:-1,Uno4 TV
 https://cdn88-it.azotosolutions.com:8443/cdnedge8/smil:live2.smil/playlist.m3u8
 #EXTINF:-1,SUPERTV ARISTANIS

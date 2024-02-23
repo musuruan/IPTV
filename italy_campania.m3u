@@ -10,11 +10,11 @@ https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 #EXTINF:-1,Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8?DVR
 #EXTINF:-1,Tv Luna
-https://tv.mediacp.eu:8081/tvluna/index.m3u8
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1,Videonola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
 #EXTINF:-1,Partenope TV
-https://tv.mediacp.eu:8081/partenopetv/index.m3u8
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:-1,Nuvola TV Ischia
 https://604e46ac2bdee.streamlock.net:1936/nuvolatv4/nuvolatv4/playlist.m3u8
 #EXTINF:-1,Teleischia
@@ -24,7 +24,7 @@ https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
 #EXTINF:-1,astiletv
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 #EXTINF:-1,LabTV
-https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.labtv.net
 #EXTINF:-1,TV7 Benevento
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1,Telecolore
