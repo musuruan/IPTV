@@ -31,3 +31,5 @@ https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Bruno
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Radio Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8

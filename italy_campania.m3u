@@ -41,6 +41,8 @@ https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1,TeleOltre
 https://m3u8.teleoltre.com/np_teleoltre/channel1_np_teleoltre/channel1.m3u8
+#EXTINF:-1,Minformo Tv
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Marte TV
@@ -51,3 +53,5 @@ https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
 https://rst.saiuzwebnetwork.it:8081/fiestaloca/index.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8

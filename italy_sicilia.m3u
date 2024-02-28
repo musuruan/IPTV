@@ -55,3 +55,7 @@ https://router.xdevel.com/video0s975521-196/stream/playlist.m3u8
 https://router.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
 #EXTINF:-1 groups="MUSIC",RTA - Radio Tivù Azzurra
 https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",FMITALIA
+https://router.xdevel.com/video0s975817-362/stream/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",Zerouno Tv Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,Camera dei Deputati (via RR)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 groups="NEWS",Class CNBC
@@ -10,7 +12,9 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1,Explorer HD Channel
 https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
 #EXTINF:-1 groups="NEWS",Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 groups="NEWS",Giornale Radio News Tv
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1,Gold TV Sat
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1,Iunior Tv
