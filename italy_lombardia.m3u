@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:-1,Espansione TV
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Bergamo TV

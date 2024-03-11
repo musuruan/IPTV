@@ -21,6 +21,8 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Napoletani nel mondo
+https://stream10.xdevel.com/video1s977227-1846/stream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Bro&Sis
@@ -65,6 +67,8 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
 #EXTINF:-1,SuperSix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1,The Map Report
+https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/playlist.m3u8
 #EXTINF:-1 groups="SPORTS",TMW Radio TV
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 groups="EDUCATION",UninettunoUniversity.TV
