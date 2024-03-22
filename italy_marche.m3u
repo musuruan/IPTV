@@ -13,7 +13,7 @@ https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/fmtv/index.m3u8
 #EXTINF:-1,Rossini TV
 https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTM
+#EXTINF:-1,RTM
 http://api.new.livestream.com/accounts/10831729/events/3759913/live.m3u8
 #EXTINF:-1,VideoTolentino
 https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
