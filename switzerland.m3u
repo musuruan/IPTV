@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,Canal 9
-https://edge.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+https://edge15.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 #EXTINF:-1,Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1,Canal Alpha Neuchatel
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1,CARAC1
-https://edge.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+https://edge15.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1,CARAC2
-https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1,CARAC3
-https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1,CARAC4
-https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+https://edge20.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 #EXTINF:-1,Die Neue Zeit
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1,Dieu TV
@@ -38,7 +38,7 @@ https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/a
 #EXTINF:-1,TeleBärn
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 #EXTINF:-1,TeleBielingue
-https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+https://edge15.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1,TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1,TeleZüri

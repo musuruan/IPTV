@@ -10,7 +10,7 @@ https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
 #EXTINF:-1,Fano TV
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:-1,FMTV75
-https://rst2.saiuzwebnetwork.it:8081/fmtv/index.m3u8
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
 #EXTINF:-1,Rossini TV
 https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
 #EXTINF:-1,RTM

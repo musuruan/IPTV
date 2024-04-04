@@ -118,7 +118,7 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-chno="258" group-title="MUSIC",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Bike.it" tvg-chno="259",Bike
-https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
+https://65f5123e69e3b.streamlock.net/bikechannel/ngrp:bikechannel_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Byoblu.it" tvg-chno="262",Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1 tvg-id="radiozeta.it" tvg-chno="266" group-title="MUSIC",Radio Zeta TV
