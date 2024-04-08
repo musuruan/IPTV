@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1,Telecity Valle d'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
 #EXTINF:-1,TVdA
 https://stream.cp.ets-sistemi.it:1936/tvda/tvda/playlist.m3u8
