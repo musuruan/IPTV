@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1,laQtv
-https://s61.ipcamlive.com/streams/3dgny5omadg3nxfht/stream.m3u8
 #EXTINF:-1,Super J TV
-http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1,Telesirio
 https://www.telesirio.it/live/stream.m3u8
 #EXTINF:-1,Tele Abruzzo

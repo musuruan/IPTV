@@ -21,8 +21,6 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1,Napoletani nel mondo
-https://stream10.xdevel.com/video1s977227-1846/stream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Bro&Sis
@@ -42,7 +40,7 @@ https://5e53c5849c731.streamlock.net/RadioBianconeraTV/smil:RadioBianconeraTV.sm
 #EXTINF:-1 groups="MUSIC",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Italia Anni 60 TV
-https://5f204aff97bee.streamlock.net/Anni60TV/livestream/playlist.m3u8
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Monte Carlo TV
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 groups="NEWS",Radio Radicale TV
@@ -67,7 +65,7 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
 #EXTINF:-1,SuperSix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1,The Map Report
+#EXTINF:-1,The Map Report TV
 https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/playlist.m3u8
 #EXTINF:-1 groups="SPORTS",TMW Radio TV
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
