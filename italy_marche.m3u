@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,VeraTV
-https://59d7d6f47d7fc.streamlock.net/veratv/veratv/playlist.m3u8
+https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
 #EXTINF:-1,ETV Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u
 #EXTINF:-1,TVRS Marche
@@ -20,7 +20,7 @@ https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
 #EXTINF:-1,Studio 7 TV
 https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
 #EXTINF:-1,EmmeTv
-https://ssh101-fl.bozztv.com/ssh101/emmetv89/index.m3u8
+https://glb.bozztv.com/glb/ssh101/emmetv89/index.m3u8
 #EXTINF:-1 groups="MUSIC",RADIO LINEA N.1 TV
 https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",SKYLINE TV

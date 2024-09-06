@@ -16,7 +16,7 @@ https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 groups="NEWS",Giornale Radio News Tv
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1,Gold TV Sat
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1,Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Italia TV
@@ -65,8 +65,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
 #EXTINF:-1,SuperSix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1,The Map Report TV
-https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/playlist.m3u8
 #EXTINF:-1 groups="SPORTS",TMW Radio TV
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 groups="EDUCATION",UninettunoUniversity.TV
