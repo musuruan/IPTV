@@ -9,6 +9,8 @@ https://live.antennasudwebtv.it:9443/hls/vod.m3u8
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1,TeleBari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1,Telesveva
+https://live2.telesveva.com/hls/svevahd.m3u8
 #EXTINF:-1,Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1,Telefoggia

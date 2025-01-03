@@ -82,13 +82,13 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=23
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" group-title="SPORTS",Sportitalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Traveltv.it" tvg-chno="61" ,Travel TV
-https://di-4anhezkv.vo.lswcdn.net/promosrl/smil:byoblu.smil/playlist.m3u8
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62",Donna TV
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" group="LIFE_STYLE",Alma Tv
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" group-title="MUSIC",Radio 105 TV
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" group-title="MUSIC",R101 TV
@@ -110,7 +110,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_003/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-chno="158" group-title="MUSIC",Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-chno="163",Odeon 24
-https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-id=""tvg-chno="221",It Channel
 https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8
 #EXTINF:-1 tvg-id="paroledivita.org" tvg-chno="245",paroledivita.org
@@ -125,6 +125,8 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Bike.it" tvg-chno="259",Bike
 https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-chno="257",Gambero Rosso
+https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
 #EXTINF:-1 tvg-id="Byoblu.it" tvg-chno="262",Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1 tvg-id="radiozeta.it" tvg-chno="266" group-title="MUSIC",Radio Zeta TV
@@ -139,3 +141,5 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1,CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1,Gold TV Sat
+https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8

@@ -2,7 +2,7 @@
 #EXTINF:-1,VeraTV
 https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
 #EXTINF:-1,ETV Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1,TVRS Marche
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
 #EXTINF:-1,ETV+
@@ -13,14 +13,12 @@ https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 https://bbtv.intvstream.net:3988/hybrid/play.m3u8
 #EXTINF:-1,Rossini TV
 https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
-#EXTINF:-1,RTM
-http://api.new.livestream.com/accounts/10831729/events/3759913/live.m3u8
 #EXTINF:-1,VideoTolentino
 https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
 #EXTINF:-1,Studio 7 TV
 https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
 #EXTINF:-1,EmmeTv
-https://glb.bozztv.com/glb/ssh101/emmetv89/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/emmetv89/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",RADIO LINEA N.1 TV
 https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",SKYLINE TV

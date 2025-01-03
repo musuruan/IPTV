@@ -23,8 +23,6 @@ https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
 https://media2021.rtvweb.com/tva/live/playlist.m3u8
 #EXTINF:-1,Teleacras
 https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
-#EXTINF:-1,Sicilia TV
-https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8
 #EXTINF:-1,Tele8
 https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
 #EXTINF:-1,Sicilia 24 TV
@@ -39,8 +37,6 @@ https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
 #EXTINF:-1,TelePegaso
 https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
-#EXTINF:-1,Canale 74
-https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Bella Radio TV
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Vintage Radio TV
