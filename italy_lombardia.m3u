@@ -25,6 +25,8 @@ https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+#EXTINF:-1,Più Valli TV
+https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
 #EXTINF:-1,Antenna 2
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 #EXTINF:-1,Italia 8 Prestige

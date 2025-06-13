@@ -82,13 +82,13 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=23
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" group-title="SPORTS",Sportitalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Traveltv.it" tvg-chno="61" ,Travel TV
-https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62",Donna TV
-https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" group="LIFE_STYLE",Alma Tv
-https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" group-title="MUSIC",Radio 105 TV
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" group-title="MUSIC",R101 TV
@@ -110,7 +110,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_003/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-chno="158" group-title="MUSIC",Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-chno="163",Odeon 24
-https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/odeon163/odeon163/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-chno="221",It Channel
 https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8
 #EXTINF:-1 tvg-id="paroledivita.org" tvg-chno="245",paroledivita.org
@@ -141,5 +141,5 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1,CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1,Gold TV Sat
-https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1,Gold TV Italia
+https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8

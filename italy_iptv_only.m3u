@@ -4,19 +4,17 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,Camera dei Deputati (via RR)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 groups="NEWS",Class CNBC
-https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
 #EXTINF:-1 groups="NEWS",Euronews
 https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:-1,EuroTV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1,Explorer HD Channel
-https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
 #EXTINF:-1 groups="NEWS",Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 groups="NEWS",Giornale Radio News Tv
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1,Gold TV Sat
-https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 #EXTINF:-1,Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Italia TV
@@ -39,8 +37,6 @@ https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/master.m3u
 https://5e53c5849c731.streamlock.net/RadioBianconeraTV/smil:RadioBianconeraTV.smil/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 groups="MUSIC",Radio Italia Anni 60 TV
-https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Monte Carlo TV
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 groups="NEWS",Radio Radicale TV

@@ -18,13 +18,11 @@ https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:-1,Telepace 2
 https://64b16f23efbee.streamlock.net/telepace2/telepace2/playlist.m3u8
 #EXTINF:-1,TeleVenezia
-https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
 #EXTINF:-1,Tele Dolomiti
 https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
 #EXTINF:-1,TeleCittà
-https://tango.wifi4all.it/telecitta/telecitta.m3u8
-#EXTINF:-1,Love in Venice
-https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Bellla & Monella
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Sorrriso TV

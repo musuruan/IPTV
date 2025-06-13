@@ -5,6 +5,10 @@ https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 #EXTINF:-1,trg
 https://www.trgmedia.it/hls/livestreamHD.m3u8
+#EXTINF:-1,Umbria+
+https://diretta.umbriapiu.it:8080/show/show.m3u8
+#EXTINF:-1,TeleAmbiente
+https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
 #EXTINF:-1,ETV Umbria
 https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
 #EXTINF:-1,A.M. Terni

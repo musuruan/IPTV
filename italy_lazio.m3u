@@ -2,17 +2,13 @@
 #EXTINF:-1,Canale 10 Ostia
 https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:-1,Gold TV Roma
-https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/goldtv/goldtv/playlist.m3u8
 #EXTINF:-1,Teleuniverso
-https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
+https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 #EXTINF:-1,Laziotv
-https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1,Telepace Roma
-https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
-#EXTINF:-1,Radio Roma Tv
-https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/laziotv/laziotv/playlist.m3u8
 #EXTINF:-1,T9
-https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+https://5a1178b42cc03.streamlock.net/t9/t9/playlist.m3u8
 #EXTINF:-1,Teleregione
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1,TRL
