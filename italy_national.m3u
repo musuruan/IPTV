@@ -115,6 +115,8 @@ https://5a1178b42cc03.streamlock.net/odeon163/odeon163/playlist.m3u8
 https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8
 #EXTINF:-1 tvg-id="paroledivita.org" tvg-chno="245",paroledivita.org
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:-1 tvg-id="radio24.it" tvg-chno="246" groups="NEWS",Radio 24
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="tci.org" tvg-chno="248",TCI
 https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
 #EXTINF:-1 tvg-id="DonnaShopping.it" tvg-chno="255" group-title="SHOPPING",Donna Shopping
