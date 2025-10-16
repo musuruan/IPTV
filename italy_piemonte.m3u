@@ -31,7 +31,7 @@ https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Gold
 https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
-#EXTINF:-1 groups="MUSIC",Telecupole Music
-https://cdn98-ita.azotosolutions.com:8443/cdnedge12/live12/playlist.m3u8
+#EXTINF:-1 groups="MUSIC",LOVE MUSIC
+https://d4k.it/hls/live1/live.m3u8
 #EXTINF:-1,Motori TV
 https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8

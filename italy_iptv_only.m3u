@@ -3,9 +3,9 @@
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,Camera dei Deputati (via RR)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 groups="NEWS",Class CNBC
+#EXTINF:-1 tvg-id="ClassCNBC.it" groups="NEWS",Class CNBC
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
-#EXTINF:-1 groups="NEWS",Euronews
+#EXTINF:-1 tvg-id="Euronews.nws" groups="NEWS",Euronews
 https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:-1,EuroTV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
@@ -36,12 +36,12 @@ https://5e53c5849c731.streamlock.net/RadioBianconeraTV/smil:RadioBianconeraTV.sm
 #EXTINF:-1 groups="MUSIC",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Monte Carlo TV
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 groups="NEWS",Radio Radicale TV
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,Rai 4K
+#EXTINF:-1 tvg-id="Rai4K.it",Rai 4K
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=23
 #EXTINF:-1,RaiPlay
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4761838&output=23
@@ -49,9 +49,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4761838&output=23
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4752979&output=23
 #EXTINF:-1,RaiPlay 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4761993&output=23
-#EXTINF:-1 groups="MUSIC",Rai Radio 2
+#EXTINF:-1 tvg-id="RaiRadio2.it" groups="MUSIC",Rai Radio 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=23
-#EXTINF:-1 group="SPORTS",SI Solo Calcio
+#EXTINF:-1 tvg-id="SoloCalcio.it" group="SPORTS",SI Solo Calcio
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 groups="SPORTS",SI Live24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
@@ -61,7 +61,7 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uu
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 groups="SPORTS",TMW Radio TV
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 groups="EDUCATION",UninettunoUniversity.TV
+#EXTINF:-1 tvg-id="UNINETTUNOUniversityTV.it" groups="EDUCATION",UninettunoUniversity.TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1,Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
