@@ -35,7 +35,7 @@ https://www.mytivu.it/Application/Channels/Cielo.php?m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="La7d.it" tvg-chno="29",La 7d
+#EXTINF:-1 tvg-id="La7 Cinema.it" tvg-chno="29",a7 Cinema
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -96,7 +96,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=23
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-chno="59",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" group-title="SPORTS",Sportitalia
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-id="il61.it" tvg-chno="61",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62",Donna TV
@@ -104,7 +104,7 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" group-title="SPORTS",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" group-title="LIFE_STYLE",Alma Tv
-https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" group-title="MUSIC",Radio 105 TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" group-title="MUSIC",R101 TV
@@ -128,7 +128,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_003/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-chno="158" group-title="MUSIC",Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-chno="163",Odeon 24
-https://5a1178b42cc03.streamlock.net/odeon163/odeon163/playlist.m3u8
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTINF:-1 tvg-id="ItChannel.it"tvg-chno="221",It Channel
 https://64b16f23efbee.streamlock.net/puntopunto/diretta/playlist.m3u8
 #EXTINF:-1 tvg-id="ParoleDiVita.org" tvg-chno="245",paroledivita.org
@@ -137,8 +137,6 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="TCI.it" tvg-chno="248",TCI
 https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.m3u8
-#EXTINF:-1 tvg-id="DonnaShopping.it" tvg-chno="255" group-title="SHOPPING",Donna Shopping
-https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-chno="257" group-title="MUSIC",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-chno="258" group-title="MUSIC",Radio Freccia

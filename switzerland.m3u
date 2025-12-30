@@ -18,7 +18,7 @@ https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1,Dieu TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1,La Télé
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+https://edge11.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1,Léman Bleu
 https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1,wetter.tv
@@ -34,7 +34,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 #EXTINF:-1,Tele M1 HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1,Telebasel
-https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/playlist.m3u8
 #EXTINF:-1,TeleBärn
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 #EXTINF:-1,TeleBielingue

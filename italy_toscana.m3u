@@ -28,7 +28,7 @@ https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
 #EXTINF:-1,NTi canale 93
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1,Idea Plus
-https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
+https://rst2.saiuzwebnetwork.it:8081/ideaplus/index.m3u8
 #EXTINF:-1,SPORTVL
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
 #EXTINF:-1,Retemia

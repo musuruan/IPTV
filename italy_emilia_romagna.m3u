@@ -8,7 +8,7 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1,12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1,Telelibertà
-https://di-f1hy8rov.vo.lswcdn.net/origin/smil:teleliberta.smil/playlist.m3u8
+https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
 #EXTINF:-1,TV Qui
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1,Icaro TV Rimini
@@ -18,7 +18,7 @@ https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 #EXTINF:-1,Telesanterno
 https://64b16f23efbee.streamlock.net/telesanterno/telesanterno/playlist.m3u8
 #EXTINF:-1,Videoregione
-https://stream.vr99.it/hls/obs_stream.m3u8
+https://stream.videoregione.it/hls/vr99/index.m3u8
 #EXTINF:-1,Giovanni Paolo TV
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1,Canale 88 MadeinBO.TV
