@@ -2,7 +2,7 @@
 #EXTINF:-1,RAI Sudtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,Trentino TV
-https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1,RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1,Telepace Trento

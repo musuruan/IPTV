@@ -27,10 +27,8 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
 #EXTINF:-1,TeleTusciaSabina 2000
 https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1,SL48TV
-http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Immagine TV
-https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
 #EXTINF:-1 groups="MUSIC",StandbyTV
 https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Mambo TV

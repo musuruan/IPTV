@@ -10,15 +10,15 @@ https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:-1,EuroTV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 groups="NEWS",Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1
+https://gr.fluid.stream/GR_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 groups="NEWS",Giornale Radio News Tv
-https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1
+https://gr2.fluid.stream/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1,Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1,MAN-GA
-https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist_video.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 groups="MUSIC",RTL 102.5 Bro&Sis
@@ -37,8 +37,6 @@ https://5e53c5849c731.streamlock.net/RadioBianconeraTV/smil:RadioBianconeraTV.sm
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Monte Carlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-#EXTINF:-1 groups="NEWS",Radio Radicale TV
-https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it",Rai 4K
